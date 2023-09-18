@@ -10,9 +10,3 @@
 
 
 
-🔒 Security and reliability are always at the forefront of my mind. I'm committed to following best practices to ensure that the applications I build are not only user-friendly but also maintain the highest standards of data protection.
-
-🌱 In the ever-evolving world of technology, I'm dedicated to continuous learning and growth. Whether it's staying updated with the latest industry trends or experimenting with new tools and techniques, I thrive on embracing new challenges that expand my skill set.
-
-🤝 Collaboration is at the heart of my work. I value communication and teamwork, and I enjoy collaborating with cross-functional teams to bring ideas to life. I'm a proactive problem solver who loves tackling complex issues head-on and finding elegant solutions.
-
